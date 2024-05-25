@@ -9,9 +9,6 @@
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="logo.png"
-   inkscape:export-xdpi="3291.02"
-   inkscape:export-ydpi="3291.02"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,8 +24,8 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="16"
-     inkscape:cx="276.75"
-     inkscape:cy="248.34375"
+     inkscape:cx="278.0625"
+     inkscape:cy="243.65625"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1016"
@@ -41,16 +38,8 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#5f7a7b;fill-opacity:1;stroke-width:0.231488"
-       id="rect6"
-       width="7.7179689"
-       height="7.7179689"
-       x="72.065887"
-       y="61.730595" />
     <g
-       id="g5"
-       transform="translate(-0.14283776,0.27883387)">
+       id="g5">
       <circle
          style="fill:#0b1316;fill-opacity:1;stroke-width:0.264583"
          id="path3"
@@ -59,7 +48,7 @@
          r="0.86816406" />
       <path
          style="fill:#0b1316;fill-opacity:1;stroke-width:0.264583"
-         d="M 76.435644,67.33439 78.6784,66.075552 78.6877,64.552131 76.455587,63.296604 Z"
+         d="m 76.435644,67.33439 2.242756,-1.258838 0.0093,-1.523421 -2.232113,-1.255527 z"
          id="path5"
          sodipodi:nodetypes="ccccc" />
       <circle
@@ -71,7 +60,7 @@
     </g>
     <g
        id="g6"
-       transform="translate(0.05760042,0.30153611)">
+       transform="translate(0.20043818,0.02270224)">
       <path
          style="font-weight:bold;font-size:4.9389px;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;fill:#004242;fill-opacity:1;stroke-width:0.264583"
          d="m 75.291261,64.097769 q -0.429684,0 -0.656874,0.321029 -0.227189,0.321028 -0.227189,0.879124 0,0.563034 0.207434,0.874185 0.212372,0.306212 0.676629,0.306212 0.212373,0 0.429684,-0.04939 0.217312,-0.04939 0.469196,-0.138289 v 0.62724 q -0.232129,0.09384 -0.459318,0.138289 -0.227189,0.04445 -0.508707,0.04445 -0.548218,0 -0.89888,-0.22225 -0.350661,-0.22719 -0.518584,-0.632179 -0.167923,-0.409929 -0.167923,-0.953208 0,-0.533401 0.192617,-0.94333 0.192618,-0.409929 0.558096,-0.642057 0.370418,-0.232128 0.903819,-0.232128 0.261762,0 0.523523,0.06914 0.266701,0.06421 0.508707,0.177801 l -0.242006,0.607484 q -0.197556,-0.09384 -0.400051,-0.162983 -0.197556,-0.06915 -0.390173,-0.06915 z"
